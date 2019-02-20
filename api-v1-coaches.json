@@ -1,0 +1,55 @@
+{
+    "status": 200,
+    "info": "Success",
+    "data": [
+             {
+             "id": 157,
+             "name": "Daryl Lu",
+             "image_url": null,
+             "created_at": 1364818983,
+             "updated_at": 1364819107
+             },
+             {
+             "id": 158,
+             "name": "Body Boss",
+             "image_url": "https://bodyboss-production-assets.s3.amazonaws.com/uploads/coach_profile/avatar/158/thumb_cover-logo_only.png",
+             "created_at": 1364820184,
+             "updated_at": 1364820363
+             },
+             {
+             "id": 169,
+             "name": "Christian Aguirre",
+             "image_url": null,
+             "created_at": 1367241655,
+             "updated_at": 1367243270
+             },
+             {
+             "id": 193,
+             "name": "Patrick Carver",
+             "image_url": "https://bodyboss-production-assets.s3.amazonaws.com/uploads/coach_profile/avatar/193/thumb_id1mrq827xgi80sz.jpg",
+             "created_at": 1369776525,
+             "updated_at": 1369777533
+             },
+             {
+             "id": 1,
+             "name": "Body Boss",
+             "image_url": "https://bodyboss-production-assets.s3.amazonaws.com/uploads/coach_profile/avatar/1/thumb_cropped_imgres.jpeg",
+             "created_at": 1348709723,
+             "updated_at": 1370908047
+             },
+             {
+             "id": 204,
+             "name": "Jared Hirschowitz",
+             "image_url": "https://bodyboss-production-assets.s3.amazonaws.com/uploads/coach_profile/avatar/204/thumb_image.jpg",
+             "created_at": 1370908102,
+             "updated_at": 1370908503
+             },
+             {
+             "id": 267,
+             "name": "Jameil Armstrong",
+             "image_url": "https://bodyboss-production-assets.s3.amazonaws.com/uploads/coach_profile/avatar/267/thumb_409089_837675355464_1970163540_n.jpg",
+             "created_at": 1374585875,
+             "updated_at": 1374699999
+             }
+             ]
+}
