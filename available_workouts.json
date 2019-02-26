@@ -1,34 +1,35 @@
 {
-    "status": 200,
-    "info": "",
-    "data": [
-             {
-             "id": 3,
-             "name": "Chest & Shoulders",
-             "workout_id": 6,
-             "position": 1,
-             "unsubmitted": false
-             },
-             {
-             "id": 4,
-             "name": "Back & Biceps",
-             "workout_id": 7,
-             "position": 2,
-             "unsubmitted": false
-             },
-             {
-             "id": 2,
-             "name": "Legs & Core",
-             "workout_id": 8,
-             "position": 3,
-             "unsubmitted": false
-             },
-             {
-             "id": 2108,
-             "name": "Calisthenics",
-             "workout_id": 2346,
-             "position": 4,
-             "unsubmitted": false
-             }
-             ]
+  "status" : 200,
+  "info" : "",
+  "data" :
+  [
+    {
+      "id" : 3,
+      "name" : "Chest & Shoulders",
+      "workout_id" : 6,
+      "position" : 1,
+      "unsubmitted" : false
+    },
+    {
+      "id" : 4,
+      "name" : "Back & Biceps",
+      "workout_id" : 7,
+      "position" : 2,
+      "unsubmitted" : false
+    },
+    {
+      "id" : 2,
+      "name" : "Legs & Core",
+      "workout_id" : 8,
+      "position" : 3,
+      "unsubmitted" : false
+    },
+    {
+      "id" : 2108,
+      "name" : "Calisthenics",
+      "workout_id" : 2346,
+      "position" : 4,
+      "unsubmitted" : false
+    }
+  ]
 }

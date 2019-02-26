@@ -1,179 +1,190 @@
 {
-    "id":43,
-    "workout_id":2955,
-    "player_ids":[
+    "id" : 43,
+    "workout_id" : 2955,
+    "player_ids" :
+    [
         165,
         210
     ],
-    "player_workout_ids":[
+    "player_workout_ids" :
+    [
         7714,
         7715
     ],
-    "group_workout_players":{
-        "group_workout_players":[
+    "group_workout_players" :
+    {
+        "group_workout_players" :
+        [
             {
-                "group_workout_id":43,
-                "player_id":165,
-                "player_workout_id":7714,
-                "workout_name":"Test workout for ER and Guy"
+                "group_workout_id" : 43,
+                "player_id" : 165,
+                "player_workout_id" : 7714,
+                "workout_name" : "Test workout for ER and Guy"
             },
             {
-                "group_workout_id":43,
-                "player_id":210,
-                "player_workout_id":7715,
-                "workout_name":"Test workout for ER and Guy"
+                "group_workout_id" : 43,
+                "player_id" : 210,
+                "player_workout_id" : 7715,
+                "workout_name" : "Test workout for ER and Guy"
             }
         ]
     },
-    "player_workouts":[
+    "player_workouts" :
+    [
         {
-            "id":7714,
-            "name":"Test workout for ER and Guy",
-            "description":"Blank (NOT)",
-            "position":null,
-            "player_id":165,
-            "organization_id":1,
-            "workout_id":2955,
-            "submitted":false,
-            "assessment":false,
-            "submitted_at":0,
-            "player_workout_exercises":[
+            "id" : 7714,
+            "name" : "Test workout for ER and Guy",
+            "description" : "Blank (NOT)",
+            "position" : null,
+            "player_id" : 165,
+            "organization_id" : 1,
+            "workout_id" : 2955,
+            "submitted" : false,
+            "assessment" : false,
+            "submitted_at" : 0,
+            "player_workout_exercises" :
+            [
                 {
-                    "id":46992,
-                    "name":"Machine Barbell Row",
-                    "exercise_id":null,
-                    "player_workout_id":7714,
-                    "activiable_id":51,
-                    "activiable_type":"Exercise",
-                    "position":1,
-                    "player_workout_sets":[
+                    "id" : 46992,
+                    "name" : "Machine Barbell Row",
+                    "exercise_id" : null,
+                    "player_workout_id" : 7714,
+                    "activiable_id" : 51,
+                    "activiable_type" : "Exercise",
+                    "position" : 1,
+                    "player_workout_sets" :
+                    [
                         {
-                            "id":154146,
-                            "target_reps":5,
-                            "target_weight":null,
-                            "actual_reps":null,
-                            "actual_weight":null,
-                            "position":1,
-                            "player_workout_exercise_id":46992
+                            "id" : 154146,
+                            "target_reps" : 5,
+                            "target_weight" : null,
+                            "actual_reps" : null,
+                            "actual_weight" : null,
+                            "position" : 1,
+                            "player_workout_exercise_id" : 46992
                         },
                         {
-                            "id":154147,
-                            "target_reps":5,
-                            "target_weight":null,
-                            "actual_reps":null,
-                            "actual_weight":null,
-                            "position":2,
-                            "player_workout_exercise_id":46992
+                            "id" : 154147,
+                            "target_reps" : 5,
+                            "target_weight" : null,
+                            "actual_reps" : null,
+                            "actual_weight" : null,
+                            "position" : 2,
+                            "player_workout_exercise_id" : 46992
                         },
                         {
-                            "id":154148,
-                            "target_reps":5,
-                            "target_weight":null,
-                            "actual_reps":null,
-                            "actual_weight":null,
-                            "position":3,
-                            "player_workout_exercise_id":46992
+                            "id" : 154148,
+                            "target_reps" : 5,
+                            "target_weight" : null,
+                            "actual_reps" : null,
+                            "actual_weight" : null,
+                            "position" : 3,
+                            "player_workout_exercise_id" : 46992
                         },
                         {
-                            "id":154149,
-                            "target_reps":5,
-                            "target_weight":null,
-                            "actual_reps":null,
-                            "actual_weight":null,
-                            "position":4,
-                            "player_workout_exercise_id":46992
+                            "id" : 154149,
+                            "target_reps" : 5,
+                            "target_weight" : null,
+                            "actual_reps" : null,
+                            "actual_weight" : null,
+                            "position" : 4,
+                            "player_workout_exercise_id" : 46992
                         },
                         {
-                            "id":154150,
-                            "target_reps":5,
-                            "target_weight":null,
-                            "actual_reps":null,
-                            "actual_weight":null,
-                            "position":5,
-                            "player_workout_exercise_id":46992
+                            "id" : 154150,
+                            "target_reps" : 5,
+                            "target_weight" : null,
+                            "actual_reps" : null,
+                            "actual_weight" : null,
+                            "position" : 5,
+                            "player_workout_exercise_id" : 46992
                         }
                     ],
-                    "":null,
-                    "exercise":{
-                        "id":51,
-                        "name":"Machine Barbell Row",
-                        "youtube_id":"6W-ulss-Gpk"
+                    "" : null,
+                    "exercise" :
+                    {
+                        "id" : 51,
+                        "name" : "Machine Barbell Row",
+                        "youtube_id" : "6W-ulss-Gpk"
                     }
                 }
             ]
         },
         {
-            "id":7715,
-            "name":"Test workout for ER and Guy",
-            "description":"Blank (NOT)",
-            "position":null,
-            "player_id":210,
-            "organization_id":1,
-            "workout_id":2955,
-            "submitted":false,
-            "assessment":false,
-            "submitted_at":0,
-            "player_workout_exercises":[
+            "id" : 7715,
+            "name" : "Test workout for ER and Guy",
+            "description" : "Blank (NOT)",
+            "position" : null,
+            "player_id" : 210,
+            "organization_id" : 1,
+            "workout_id" : 2955,
+            "submitted" : false,
+            "assessment" : false,
+            "submitted_at" : 0,
+            "player_workout_exercises" :
+            [
                 {
-                    "id":46993,
-                    "name":"Machine Barbell Row",
-                    "exercise_id":null,
-                    "player_workout_id":7715,
-                    "activiable_id":51,
-                    "activiable_type":"Exercise",
-                    "position":1,
-                    "player_workout_sets":[
+                    "id" : 46993,
+                    "name" : "Machine Barbell Row",
+                    "exercise_id" : null,
+                    "player_workout_id" : 7715,
+                    "activiable_id" : 51,
+                    "activiable_type" : "Exercise",
+                    "position" : 1,
+                    "player_workout_sets" :
+                    [
                         {
-                            "id":154151,
-                            "target_reps":5,
-                            "target_weight":null,
-                            "actual_reps":null,
-                            "actual_weight":null,
-                            "position":1,
-                            "player_workout_exercise_id":46993
+                            "id" : 154151,
+                            "target_reps" : 5,
+                            "target_weight" : null,
+                            "actual_reps" : null,
+                            "actual_weight" : null,
+                            "position" : 1,
+                            "player_workout_exercise_id" : 46993
                         },
                         {
-                            "id":154152,
-                            "target_reps":5,
-                            "target_weight":null,
-                            "actual_reps":null,
-                            "actual_weight":null,
-                            "position":2,
-                            "player_workout_exercise_id":46993
+                            "id" : 154152,
+                            "target_reps" : 5,
+                            "target_weight" : null,
+                            "actual_reps" : null,
+                            "actual_weight" : null,
+                            "position" : 2,
+                            "player_workout_exercise_id" : 46993
                         },
                         {
-                            "id":154153,
-                            "target_reps":5,
-                            "target_weight":null,
-                            "actual_reps":null,
-                            "actual_weight":null,
-                            "position":3,
-                            "player_workout_exercise_id":46993
+                            "id" : 154153,
+                            "target_reps" : 5,
+                            "target_weight" : null,
+                            "actual_reps" : null,
+                            "actual_weight" : null,
+                            "position" : 3,
+                            "player_workout_exercise_id" : 46993
                         },
                         {
-                            "id":154154,
-                            "target_reps":5,
-                            "target_weight":null,
-                            "actual_reps":null,
-                            "actual_weight":null,
-                            "position":4,
-                            "player_workout_exercise_id":46993
+                            "id" : 154154,
+                            "target_reps" : 5,
+                            "target_weight" : null,
+                            "actual_reps" : null,
+                            "actual_weight" : null,
+                            "position" : 4,
+                            "player_workout_exercise_id" : 46993
                         },
                         {
-                            "id":154155,
-                            "target_reps":5,
-                            "target_weight":null,
-                            "actual_reps":null,
-                            "actual_weight":null,
-                            "position":5,
-                            "player_workout_exercise_id":46993
+                            "id" : 154155,
+                            "target_reps" : 5,
+                            "target_weight" : null,
+                            "actual_reps" : null,
+                            "actual_weight" : null,
+                            "position" : 5,
+                            "player_workout_exercise_id" : 46993
                         }
                     ],
-                    "":null,
-                    "exercise":{
-                        "id":51,
-                        "name":"Machine Barbell Row",
-                        "youtube_id":"6W-ulss-Gpk"
+                    "" : null,
+                    "exercise" :
+                    {
+                        "id" : 51,
+                        "name" : "Machine Barbell Row",
+                        "youtube_id" : "6W-ulss-Gpk"
                     }
                 }
             ]
