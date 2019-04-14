@@ -4,31 +4,17 @@
   "data" :
   [
     {
-      "id" : 3,
-      "name" : "Chest & Shoulders",
-      "workout_id" : 6,
+      "id" : 1,
+      "name" : "Full Body",
+      "workout_id" : 1,
       "position" : 1,
       "unsubmitted" : false
     },
     {
-      "id" : 4,
-      "name" : "Back & Biceps",
-      "workout_id" : 7,
-      "position" : 2,
-      "unsubmitted" : false
-    },
-    {
       "id" : 2,
-      "name" : "Legs & Core",
-      "workout_id" : 8,
-      "position" : 3,
-      "unsubmitted" : false
-    },
-    {
-      "id" : 2108,
-      "name" : "Calisthenics",
-      "workout_id" : 2346,
-      "position" : 4,
+      "name" : "Upper Body",
+      "workout_id" : 2,
+      "position" : 2,
       "unsubmitted" : false
     }
   ]
