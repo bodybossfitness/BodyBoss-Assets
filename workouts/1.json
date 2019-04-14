@@ -1,12 +1,12 @@
 {
-    "id" : 6213,
-    "name" : "Chest & Shoulders",
-    "description" : "3-Day Split",
+    "id" : 1,
+    "name" : "Full Body",
+    "description" : "Standard Program",
     "position" : null,
-    "player_id" : 4,
+    "player_id" : 1,
     "organization_id" : 1,
-    "workout_id" : 6,
-    "submitted" : true,
+    "workout_id" : 1,
+    "submitted" : false,
     "assessment" : false,
     "submitted_at" : 1387725873,
     "player_workout_exercises" :
