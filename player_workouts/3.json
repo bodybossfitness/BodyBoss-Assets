@@ -1,0 +1,73 @@
+{
+  "id" : 3,
+  "name" : "Lower Body",
+  "description" : "Standard Program",
+  "position" : null,
+  "player_id" : 1,
+  "organization_id" : 1,
+  "workout_id" : 3,
+  "submitted" : false,
+  "assessment" : false,
+  "submitted_at" : 1387725873,
+  "player_workout_exercises" :
+  [
+    {
+      "player_workout_exercise" :
+      {
+        "id" : 4,
+        "name" : "Barbell Squat Press",
+        "exercise_id" : null,
+        "player_workout_id" : 1,
+        "activiable_id" : 1,
+        "activiable_type" : "Exercise",
+        "position" : 1,
+        "player_workout_sets" :
+        [
+          {
+            "player_workout_set" :
+            {
+              "id" : 10,
+              "target_reps" : 6,
+              "target_weight" : "185.0",
+              "actual_reps" : 6,
+              "actual_weight" : "185.0",
+              "position" : 1,
+              "player_workout_exercise_id" : 4
+            }
+          },
+          {
+            "player_workout_set" :
+            {
+              "id" : 11,
+              "target_reps" : 6,
+              "target_weight" : "185.0",
+              "actual_reps" : 6,
+              "actual_weight" : "185.0",
+              "position" : 2,
+              "player_workout_exercise_id" : 4
+            }
+          },
+          {
+            "player_workout_set" :
+            {
+              "id" : 12,
+              "target_reps" : 6,
+              "target_weight" : "185.0",
+              "actual_reps" : 6,
+              "actual_weight" : "185.0",
+              "position" : 3,
+              "player_workout_exercise_id" : 4
+            }
+          }
+        ],
+        "" : null,
+        "exercise" :
+        {
+          "id" : 16,
+          "name" : "Barbell Squat",
+          "youtube_id" : "1xMaFs0L3ao"
+        }
+      }
+    }
+  ]
+}
