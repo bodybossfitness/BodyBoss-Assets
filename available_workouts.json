@@ -16,6 +16,13 @@
       "workout_id" : 2,
       "position" : 2,
       "unsubmitted" : false
+    },
+    {
+      "id" : 3,
+      "name" : "Lower Body",
+      "workout_id" : 3,
+      "position" : 3,
+      "unsubmitted" : false
     }
   ]
 }
